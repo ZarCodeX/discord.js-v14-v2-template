@@ -203,4 +203,4 @@ MIT License – free to use and modify for personal or commercial projects.
 
 ## 📞 Support
 
-Join the [Zarco HQ Discord](https://discord.gg/6YVmxA4Qsf) for help, updates, and discussion.
+Join the [Zarco HQ Discord](https://discord.gg/6YVmxA4Qsf) for help, updates, and discussion. 
