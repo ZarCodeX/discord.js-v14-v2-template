@@ -2,10 +2,11 @@
 
 A full-featured Discord bot template built with **Discord.js v14** and the new **Components V2** system. This template demonstrates modern command and event handling, modular slash commands, media galleries, file components, and container-based layouts.
 
-
 <p align="center">
   <img src="assets/image.png" alt="Bot Template Preview">
 </p>
+
+## Make sure to leave a ⭐ if this helps :)
 
 ---
 # Preview of V2 Components:
