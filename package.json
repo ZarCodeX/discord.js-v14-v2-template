@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "discord.js-v14-v2-template",
+  "version": "1.0.0",
+  "description": "A discord.js v14 template with v2 components",
+  "license": "MIT",
+  "keywords": [
+    "discord.js",
+    "v14",
+    "template",
+    "v2",
+    "components",
+    "discord-hybrid-sharding",
+    "ZarCodeX",
+    "zarco"
+  ],
+  "main": "src/zarco.js",
+  "scripts": {
+    "start": "node src/zarco.js"
+  },
+  "type": "commonjs",
+  "author": "ZarCodeX",
+  "homepage": "https://github.com/ZarCodeX/discord.js-v14-v2-template.git",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "colors": "^1.4.0",
+    "discord-hybrid-sharding": "^2.2.6",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
