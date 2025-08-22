@@ -32,7 +32,6 @@ A full-featured Discord bot template built with **Discord.js v14** and the new *
 </table>
 </p>
 
-
 ---
 
 ## 📁 Project Structure
