@@ -41,7 +41,7 @@ A full-featured Discord bot template built with **Discord.js v14** and the new *
 📦discord.js v14 with v2 components template
 ┣ 📂data                    # Optional data storage for bot usage
 ┣ 📂src
-┃ ┣ 📂assets
+┃ ┣ 📂assets                # Assets (optional)
 ┃ ┣ 📂config
 ┃ ┃ ┗ 📜config.json         # Bot configuration (color, emojis, etc.)
 ┃ ┣ 📂console
@@ -69,7 +69,7 @@ A full-featured Discord bot template built with **Discord.js v14** and the new *
 ┃ ┃ ┃ ┣ 📜text-display.js
 ┃ ┃ ┃ ┗ 📜v2-components.js
 ┃ ┣ 📂temp                 # Temporary files (e.g., generated data)
-┃ ┣ 📂utils                # Utility functions
+┃ ┣ 📂utils                # Utility functions (optional)
 ┃ ┣ 📜index.js
 ┃ ┗ 📜zarco.js
 ┣ 📜.env                    # Environment variables (TOKEN, CLIENTID)
