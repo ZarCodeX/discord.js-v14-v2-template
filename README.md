@@ -9,6 +9,7 @@ A full-featured Discord bot template built with **Discord.js v14** and the new *
 ## Make sure to leave a ⭐ if this helps :)
 
 ---
+
 # Preview of V2 Components:
 
 <p align="center">
@@ -37,7 +38,6 @@ A full-featured Discord bot template built with **Discord.js v14** and the new *
 ## 📁 Project Structure
 
 ```
-
 📦discord.js v14 with v2 components template
 ┣ 📂data                    # Optional data storage for bot usage
 ┣ 📂src
@@ -74,8 +74,7 @@ A full-featured Discord bot template built with **Discord.js v14** and the new *
 ┃ ┗ 📜zarco.js
 ┣ 📜.env                    # Environment variables (TOKEN, CLIENTID)
 ┗ 📜package.json
-
-````
+```
 
 ---
 
