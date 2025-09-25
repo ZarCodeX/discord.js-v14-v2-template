@@ -6,3 +6,9 @@ node_modules/
 
 # Package lock file
 package-lock.json
+
+# GitHub issue templates
+.github/
+
+# vscode settings
+.vscode/
