@@ -26,7 +26,6 @@
     "axios": "^1.11.0",
     "chalk": "^5.6.2",
     "colors": "^1.4.0",
-    "discord-api-types": "^0.38.26",
     "discord-hybrid-sharding": "^3.0.1",
     "discord.js": "^14.22.1",
     "dotenv": "^17.2.2"
