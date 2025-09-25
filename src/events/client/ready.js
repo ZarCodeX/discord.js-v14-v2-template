@@ -1,7 +1,7 @@
 const { ActivityType } = require('discord.js');
 
 module.exports = {
-    name: 'ready',
+    name: 'clientReady',
     once: true,
     execute(client) {
         const tag = client.user.tag;
